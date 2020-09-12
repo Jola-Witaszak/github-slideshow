@@ -1,6 +1,7 @@
 monday
 friday
 sunday
-pink
+blue
+orange
 black
 white
